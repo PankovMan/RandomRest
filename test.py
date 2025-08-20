@@ -1,2 +1,3 @@
 word = 'pankovman'
-print(word[1])
+# print(len(word))
+print(word.find('p'))
